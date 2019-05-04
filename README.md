@@ -10,3 +10,5 @@ or
 It should auto-open a tab in your browser that points to http://localhost:3000/
 
 #### Built With [React](https://reactjs.org/)
+
+## Feature Request: Pressing enter triggers a search 

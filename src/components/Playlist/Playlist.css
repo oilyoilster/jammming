@@ -31,10 +31,18 @@
   text-align: center;
   font-size: .83rem;
   transition: background-color .25s;
+  border: none;
+  color: white;
 }
 
 .Playlist-save:hover {
   background-color: rgba(108, 65, 233, .7);
+}
+
+.Playlist-save:focus {
+  outline: none;
+  border: .16rem solid purple;
+  border-radius: 3rem;
 }
 
 ::-webkit-scrollbar {
